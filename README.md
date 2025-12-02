@@ -31,10 +31,10 @@ With the increasing interaction between humans and chatbots—such as ChatGPT, G
 ## System Workflow
 
 1. **User Input:**  
-   The user writes a sentence, and the system detects their current mood (e.g., happy, sad, neutral).
+   The user fills out a form, and the system detects their current mood (happy, sad or neutral).
 
 2. **Chatbot Tone Adjustment:**  
-   Based on the detected mood, the chatbot changes its tone and interaction style to match or complement the user’s mood. Implemented using **ChatGPT API**.
+   Based on the detected mood, the chatbot changes its tone and interaction style randomly to match or unmatch user’s mood. Implemented using **ChatGPT API**.
 
 3. **Mood Evaluation:**  
    After the conversation, the user fills out a questionnaire to evaluate whether the chatbot interaction affected their mood.
