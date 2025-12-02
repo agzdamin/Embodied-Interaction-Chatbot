@@ -15,7 +15,7 @@ With the increasing interaction between humans and chatbots—such as ChatGPT, G
 - **Project Manager:** Dr.-Ing. Robert Porzel 
 - **Graphic Designer / Tester:** Elnaz Mohammadi Asl 
 - **Academic Report Writer:** Timo Schuhmann
-- **Tester:** Metasit
+- **Tester:** Metasit Getrak
 - **Developer (me):** Implemented the interactive system using PHP and managed API prompts
 
 
