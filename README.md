@@ -2,13 +2,13 @@
 
 This project is a simple chatbot built using **PHP (object-oriented)** and the **ChatGPT API**, designed to explore how chatbot interactions can influence users' moods.
 
----
+
 
 ## Project Overview
 
 With the increasing interaction between humans and chatbots—such as ChatGPT, Gemini, and other AI chat assistants—this project aims to investigate how a chatbot can affect a user's emotional state (mood).
 
----
+
 
 ## Team
 
@@ -18,7 +18,7 @@ With the increasing interaction between humans and chatbots—such as ChatGPT, G
 - **Tester:** Metasit
 - **Developer (me):** Implemented the interactive system using PHP and managed API prompts
 
----
+
 
 ## My Role
 
@@ -26,7 +26,7 @@ With the increasing interaction between humans and chatbots—such as ChatGPT, G
 - Implemented **prompt engineering** to test different chatbot tones  
 - Collected and stored results in **JSON**, **SQLite**, and **MySQL**  
 
----
+
 
 ## System Workflow
 
@@ -39,7 +39,7 @@ With the increasing interaction between humans and chatbots—such as ChatGPT, G
 3. **Mood Evaluation:**  
    After the conversation, the user fills out a questionnaire to evaluate whether the chatbot interaction affected their mood.
 
----
+
 
 ## Key Features
 
@@ -48,19 +48,19 @@ With the increasing interaction between humans and chatbots—such as ChatGPT, G
 - Prompt management system for testing different chatbot responses  
 - Data storage in multiple formats: **JSON**, **SQLite**, **MySQL**  
 
----
+
 
 ## Results
 
 Initial observations indicated that users tend to feel happier when the chatbot's mood aligns with theirs—either both happy or both sad.
 
----
+
 
 ## Screenshots
 
 Screenshots of the project and user interactions are provided in the `screenshots/` folder.
 
----
+
 
 ## Notes
 
