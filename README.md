@@ -91,7 +91,7 @@ The academic poster summarizing the project concept, methodology, and findings i
 
 ## Screenshots
 
-Screenshots of the application and example user interactions are available in the `screenshots/` folder.
+Screenshots of the application and example user interactions are available in the `https://github.com/agzdamin/Embodied-Interaction-Chatbot/tree/main/screenshots` folder.
 
 ---
 
