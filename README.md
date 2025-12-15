@@ -76,7 +76,16 @@ A demonstration video of the project is available, showcasing:
 - Post-interaction mood evaluation  
 
 🎥 **Demo Video:**  
-`video/Embodied-Interaction-Chatbot-Demo.m4v`
+`video/video_Embodied-Interaction-Chatbot-Demo.mp4`
+
+---
+
+## Project Poster
+
+The academic poster summarizing the project concept, methodology, and findings is available as:
+
+📄 **Poster:**  
+`Poster.pdf`
 
 ---
 
